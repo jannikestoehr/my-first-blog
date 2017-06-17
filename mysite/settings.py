@@ -25,7 +25,7 @@ SECRET_KEY = 'iobo!7s=y*23tlj_xlh9exjyw(9ln6nn+ds8_z56ncc1zoksq$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jannikestoehr.pythonanywhere.com']
 
 
 # Application definition
